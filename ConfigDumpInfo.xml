@@ -45,7 +45,7 @@
 		<Metadata name="CommonPicture.СостоянияДокумента" id="342f4927-ac82-4054-8607-8652d3b21d82" configVersion="046eae6056a9597327aa1e8d256f0d0f9133e8cf"/>
 		<Metadata name="CommonPicture.СтрелкаВправо" id="c84182ab-5958-42e6-aac1-b7acd977265f" configVersion="01edf5c18f065563ed2ae2f340b69d060885a666"/>
 		<Metadata name="Configuration.itn" id="f376eaf6-3d70-4cc3-901c-02f776d03eb1" configVersion="a00694a0adf54277219a1ea4915dc86ab0351b9c"/>
-		<Metadata name="Document.ПоступлениеТоваровУслуг" id="62f5dec3-f757-48d9-870d-1fad59cbf562" configVersion="45a2d4b0736bff307f0d3fa9c4ea1ae8203a03ef">
+		<Metadata name="Document.ПоступлениеТоваровУслуг" id="62f5dec3-f757-48d9-870d-1fad59cbf562" configVersion="74535ea94f1160d5849c15dc36a07a3b3afe66b3">
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.Услуги.Attribute.Содержание" id="113127b1-a77c-4818-a28f-6cecd3675e13"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.Attribute.ПодразделениеОрганизации" id="136b6bb1-2256-4e97-ba21-8664d0766e8e"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.Attribute.ДоговорКонтрагента" id="163d5e3c-4336-432a-a9a4-dc842ef7d8c1"/>
@@ -94,11 +94,12 @@
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.АгентскиеУслуги" id="ed9c743f-acfe-4ffe-98b6-149e55de0385"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.itnДома.Attribute.Площадь" id="ee2960df-edae-4958-89f0-92dad2038e8d"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.ОсновныеСредства" id="ef56a47f-75fe-45a9-93f1-3bcdd4a43fb3"/>
+			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.Услуги.Attribute.ПодразделениеЗатрат" id="fefac2a9-1165-4b89-9f43-ac7e26c81eff"/>
 		</Metadata>
 		<Metadata name="Document.ПоступлениеТоваровУслуг.Form.ФормаДокумента" id="ee142e76-d48e-415d-b862-949cdde57225" configVersion="e74930562db27efc5edbb1d9827a48387a3536a0"/>
 		<Metadata name="Document.ПоступлениеТоваровУслуг.Form.ФормаДокумента.Form" id="ee142e76-d48e-415d-b862-949cdde57225.0" configVersion="6844d386e146a0e611b7d49c1c1257badef8612e"/>
 		<Metadata name="Document.ПоступлениеТоваровУслуг.Form.ФормаДокументаУслуги" id="39d66f6f-5460-4390-8e2c-df9f57083fc6" configVersion="fef262fc405e39df09e9bd98bccfd4e7402dfe75"/>
-		<Metadata name="Document.ПоступлениеТоваровУслуг.Form.ФормаДокументаУслуги.Form" id="39d66f6f-5460-4390-8e2c-df9f57083fc6.0" configVersion="ca2c9b08ee3f6c81e49ba3e45161d20a07d9ce8a"/>
+		<Metadata name="Document.ПоступлениеТоваровУслуг.Form.ФормаДокументаУслуги.Form" id="39d66f6f-5460-4390-8e2c-df9f57083fc6.0" configVersion="74fb1b0b70d86b6149583d5f8ee605e21b68edaf"/>
 		<Metadata name="Document.ПоступлениеТоваровУслуг.ObjectModule" id="62f5dec3-f757-48d9-870d-1fad59cbf562.0" configVersion="0ece206f22586ea85f102474310643ff8ccd3c15"/>
 		<Metadata name="Document.СчетНаОплатуПоставщика" id="95410402-ac78-43c8-b510-044f856088c5" configVersion="6ace7cfaca7432c73502ef40718c3cb9fd2187dd"/>
 		<Metadata name="Enum.ВидыДоговоровКонтрагентов" id="1bcb85f9-f42a-461d-a943-875a45e89f30" configVersion="a34202feece804c472dbe5240d0cdfb2a10878a3">

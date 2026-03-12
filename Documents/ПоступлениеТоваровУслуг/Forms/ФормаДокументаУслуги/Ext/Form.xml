@@ -1734,14 +1734,6 @@
 															<ContextMenu name="ИтогиВсего1КонтекстноеМеню" id="922"/>
 															<ExtendedTooltip name="ИтогиВсего1РасширеннаяПодсказка" id="923"/>
 														</InputField>
-														<LabelField name="ВалютаДокументаИтогиВсего1" id="924">
-															<DataPath>Объект.ВалютаДокумента</DataPath>
-															<TitleLocation>None</TitleLocation>
-															<Width>4</Width>
-															<HorizontalStretch>false</HorizontalStretch>
-															<ContextMenu name="ВалютаДокументаИтогиВсего1КонтекстноеМеню" id="925"/>
-															<ExtendedTooltip name="ВалютаДокументаИтогиВсего1РасширеннаяПодсказка" id="926"/>
-														</LabelField>
 														<InputField name="ИтогиВсегоНДС1" id="927">
 															<ReadOnly>true</ReadOnly>
 															<Width>10</Width>
