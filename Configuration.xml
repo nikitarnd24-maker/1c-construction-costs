@@ -84,6 +84,7 @@
 			<CommonPicture>ЗаполнитьФорму</CommonPicture>
 			<CommonPicture>СтрелкаВправо</CommonPicture>
 			<CommonPicture>ОчиститьЗначение</CommonPicture>
+			<CommonPicture>ПрослеживаемыйТовар</CommonPicture>
 			<Role>itnОсновнаяРоль</Role>
 			<Catalog>НоменклатурныеГруппы</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
@@ -98,6 +99,10 @@
 			<Catalog>Валюты</Catalog>
 			<Catalog>НастройкиУчетаЗатрат</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
+			<Catalog>КонтрольныеЗнакиГИСМ</Catalog>
+			<Catalog>СтраныМира</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>НомераГТД</Catalog>
 			<Document>ПоступлениеТоваровУслуг</Document>
 			<Document>СчетНаОплатуПоставщика</Document>
 			<Enum>СпособыУчетаНДС</Enum>
