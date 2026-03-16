@@ -1386,19 +1386,6 @@
 														</Title>
 													</ExtendedTooltip>
 												</CheckBoxField>
-												<InputField name="Сумма" id="891">
-													<DataPath>Items.Дома.CurrentData</DataPath>
-													<Title>
-														<v8:item>
-															<v8:lang>ru</v8:lang>
-															<v8:content>Сумма</v8:content>
-														</v8:item>
-													</Title>
-													<EditMode>EnterOnInput</EditMode>
-													<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-													<ContextMenu name="СуммаКонтекстноеМеню" id="892"/>
-													<ExtendedTooltip name="СуммаРасширеннаяПодсказка" id="893"/>
-												</InputField>
 												<UsualGroup name="ГруппаИтогиВсего" id="663">
 													<Title>
 														<v8:item>
