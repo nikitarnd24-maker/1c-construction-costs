@@ -78,6 +78,7 @@
 			<StyleItem>ШрифтЗаголовкаРазделаМонитораРуководителя</StyleItem>
 			<StyleItem>ЗаголовкиСтрокЦветТекста</StyleItem>
 			<StyleItem>ЗаголовкиСтрокШрифт</StyleItem>
+			<StyleItem>ЦветГиперссылки</StyleItem>
 			<CommonPicture>СостояниеПроверкиРНПТ</CommonPicture>
 			<CommonPicture>Отчеты</CommonPicture>
 			<CommonPicture>СостоянияДокумента</CommonPicture>
@@ -85,7 +86,10 @@
 			<CommonPicture>СтрелкаВправо</CommonPicture>
 			<CommonPicture>ОчиститьЗначение</CommonPicture>
 			<CommonPicture>ПрослеживаемыйТовар</CommonPicture>
+			<CommonPicture>Сумма</CommonPicture>
 			<Role>itnОсновнаяРоль</Role>
+			<CommonTemplate>ПФ_MXL_М11</CommonTemplate>
+			<CommonForm>ПечатьДокументов</CommonForm>
 			<Catalog>НоменклатурныеГруппы</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
@@ -103,14 +107,20 @@
 			<Catalog>СтраныМира</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>НомераГТД</Catalog>
+			<Catalog>ЦелиРасходаМатериалов</Catalog>
 			<Document>ПоступлениеТоваровУслуг</Document>
 			<Document>СчетНаОплатуПоставщика</Document>
+			<Document>ТребованиеНакладная</Document>
 			<Enum>СпособыУчетаНДС</Enum>
 			<Enum>ВидыДоговоровКонтрагентов</Enum>
 			<Enum>ОтражениеВУСН</Enum>
 			<Enum>СтавкиНДС</Enum>
 			<Enum>ГруппыОС</Enum>
+			<Enum>ДействиеНДСВСтоимостиТоваров</Enum>
+			<Enum>СпособыУчетаМатериаловПоСотрудникам</Enum>
+			<Enum>ВидыОперацийРасходМатериалов</Enum>
 			<InformationRegister>ДополнительныеСвойстваНоменклатурныхГрупп</InformationRegister>
+			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 		</ChildObjects>
 	</Configuration>

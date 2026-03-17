@@ -1547,7 +1547,7 @@
 							</ToolTip>
 							<ExtendedTooltip name="itnСуммаСчетЗатратРасширеннаяПодсказка" id="1109"/>
 							<ChildItems>
-								<InputField name="ДомаСумма" id="1102">
+								<InputField name="ТоварыДомаСумма" id="1102">
 									<DataPath>Объект.itnСумма</DataPath>
 									<Title>
 										<v8:item>
@@ -1555,19 +1555,19 @@
 											<v8:content>*Сумма</v8:content>
 										</v8:item>
 									</Title>
-									<ContextMenu name="ДомаСуммаКонтекстноеМеню" id="1103"/>
-									<ExtendedTooltip name="ДомаСуммаРасширеннаяПодсказка" id="1104"/>
+									<ContextMenu name="ТоварыДомаСуммаКонтекстноеМеню" id="1103"/>
+									<ExtendedTooltip name="ТоварыДомаСуммаРасширеннаяПодсказка" id="1104"/>
 								</InputField>
-								<InputField name="СчетЗатрат" id="1105">
-									<DataPath>Объект.itnСчетЗатрат</DataPath>
+								<InputField name="ТоварыСчетЗатрат" id="1105">
+									<DataPath>Объект.itnТоварыСчетЗатрат</DataPath>
 									<Title>
 										<v8:item>
 											<v8:lang>ru</v8:lang>
 											<v8:content>*Счет затрат</v8:content>
 										</v8:item>
 									</Title>
-									<ContextMenu name="СчетЗатратКонтекстноеМеню" id="1106"/>
-									<ExtendedTooltip name="СчетЗатратРасширеннаяПодсказка" id="1107"/>
+									<ContextMenu name="ТоварыСчетЗатратКонтекстноеМеню" id="1106"/>
+									<ExtendedTooltip name="ТоварыСчетЗатратРасширеннаяПодсказка" id="1107"/>
 								</InputField>
 							</ChildItems>
 						</UsualGroup>
